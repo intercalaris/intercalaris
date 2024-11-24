@@ -1,8 +1,9 @@
 # Yonatan Mateo Aviv
 
-![image](https://github.com/user-attachments/assets/5771b2f7-6e1f-46db-816e-3cd3e708d3c5)
+![image](https://github.com/user-attachments/assets/6774ebab-2ea8-4aa0-99ca-48133392f1e3)
 
-My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer an academic background mixing computer science, genetics, and linguistics.
+
+My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer an academic and professional background mixing computer science, genetics, and linguistics.
 
 ---
 
