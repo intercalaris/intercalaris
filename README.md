@@ -1,7 +1,6 @@
 # Yonatan Mateo Aviv
 
-![image](https://github.com/user-attachments/assets/6774ebab-2ea8-4aa0-99ca-48133392f1e3)
-
+![image](https://github.com/user-attachments/assets/5f3f2a28-eadf-4047-ae7f-97dfbeff0810)
 
 My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer an academic and professional background mixing computer science, genetics, and linguistics.
 
@@ -9,7 +8,7 @@ My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer an a
 
 ## Portfolio
 
-Visit my portfolio to explore my projects, skills, and achievements:
+Visit my portfolio to explore some of my projects, skills, and achievements:
 
 [**View Portfolio**](https://ymaviv.netlify.app/)
 
