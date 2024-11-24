@@ -1,16 +1,23 @@
-## Hi there 👋
+# Yonatan Mateo Aviv
 
-<!--
-**intercalaris/intercalaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/user-attachments/assets/5771b2f7-6e1f-46db-816e-3cd3e708d3c5)
 
-Here are some ideas to get you started:
+My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer an academic background mixing computer science, genetics, and linguistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Portfolio
+
+Visit my portfolio to explore my projects, skills, and achievements:
+
+[**View Portfolio**](https://ymaviv.netlify.app/)
+
+For a complete list of my work, visit my [GitHub repositories](https://github.com/intercalaris/).
+
+---
+
+## Connect with Me
+
+- **LinkedIn:** [Yonatan Mateo Aviv](https://www.linkedin.com/in/yonatanaviv/)
+- **Twitter:** [@ymaviv](https://twitter.com/ymaviv)
+- **Email:** [ymaviv@gmail.com](mailto:ymaviv@gmail.com)
