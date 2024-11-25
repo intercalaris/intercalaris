@@ -8,9 +8,9 @@ My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer with
 
 ## Portfolio
 
-Visit my portfolio to explore some of my projects, skills, and achievements:
+[**Visit my portfolio**](https://ymaviv.netlify.app/) to explore some of my projects, skills, and achievements:
 
-[**View Portfolio**](https://ymaviv.netlify.app/)
+
 
 For a complete list of my work, visit my [GitHub repositories](https://github.com/intercalaris/).
 
