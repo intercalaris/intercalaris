@@ -11,4 +11,4 @@ My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer with
 
 For a complete list of my technical work, visit my [GitHub repositories](https://github.com/intercalaris/).
 
-- **Email:** [ymaviv@gmail.com](mailto:ymaviv@gmail.com)
+**Email:** [ymaviv@gmail.com](mailto:ymaviv@gmail.com)
