@@ -4,8 +4,6 @@ My name is Yonatan Mateo Aviv, and I am a multilingual full-stack developer with
 
 ---
 
-## Portfolio
-
 [**Visit my portfolio**](https://ymaviv.netlify.app/) to explore some of my projects!
 
 **Email:** [ymaviv@gmail.com](mailto:ymaviv@gmail.com)
